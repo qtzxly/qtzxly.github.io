@@ -17,289 +17,10 @@
   ],
   "../../__uno.css": [
   ],
-  "../../images/a-paris-1.jpg": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "../../images/a-paris-2.jpg": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "../../images/a-paris-3.jpg": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "../../images/a-paris-4.jpg": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "../../images/a-paris-5.jpg": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "../../images/ai-qrcode-101-example1.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-example2.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-example3.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-monster-w100-brightness-w010-s04-e08-pattern-w010-s04-e08.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w015-s01-e10.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w100-s00-e10-brightness-w025-s04-e08.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w100.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w125.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w140.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w150.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w160.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-monster-w170.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-original.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-qr.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-multi-cn-settings.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-non-square-example1.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-non-square-example3.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-non-square-resize.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-non-square-toolkit.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-perspective-ep1.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-perspective-ep2.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-bird.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-buildings.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-feather.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-katana-swords.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-lace.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-leaf.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-ribbon.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-shibori-patterns.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-snow.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-prompt-wave.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-qr-struct.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-render-type.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-selective-layer-1.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-selective-layer-2.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-text-input1.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-text-input2.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-text-result1.jpg": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-text-result2.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-toolkit-scanner.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-101-xyz.png": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "../../images/ai-qrcode-controlnet-config.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-examples-grid.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-final.jpg": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-ines.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-original.jpg": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-overlay-inpaint.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-ps-layers.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-refine-4.jpg": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-5.jpg": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-1.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-2.png": [
-    "/assets/ai-qrcode-refine-distort-result-9213a88f.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-3.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-4.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-final-1.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-compare-final-2.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-distort-1.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-distort-2.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-distort-result.png": [
-    "/assets/ai-qrcode-refine-distort-result-9213a88f.js"
-  ],
-  "../../images/ai-qrcode-refine-final.jpg": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-generate-1.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-generate-2.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-input-compare.jpg": [
-    "/assets/ai-qrcode-refine-distort-result-9213a88f.js"
-  ],
-  "../../images/ai-qrcode-refine-no-anchor.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-plus-sign.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-refine-qrbft.png": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "../../images/ai-qrcode-t2i.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/ai-qrcode-upscale.png": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "../../images/animated-svg-logo-mask.png": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
-  "../../images/animated-svg-logo-redraw.png": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
-  "../../images/animated-svg-logo-vector.png": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
-  "../../images/ios-qrcode-scanner.jpg": [
-    "/assets/QRNotScannable-d2dd5aa7.js"
-  ],
-  "../../logo.svg": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
   "assets/app-!~{001}~.js-unocss-hash.css": [
   ],
   "demo/2021-01-12.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -313,8 +34,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -323,12 +42,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-01-12.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -342,8 +60,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -352,12 +68,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-03-01.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -371,8 +86,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -381,12 +94,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-03-01.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -400,8 +112,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -410,12 +120,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-03-16.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -429,8 +138,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -439,12 +146,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-03-16.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -458,8 +164,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -468,12 +172,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-05-01.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -487,8 +190,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -497,12 +198,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-05-01.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -516,8 +216,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -526,12 +224,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-05-23.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -545,8 +242,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -555,12 +250,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-05-23.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -574,8 +268,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -584,12 +276,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-08-17.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -603,8 +294,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -613,12 +302,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-08-17.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -632,8 +320,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -642,12 +328,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-09-11.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -661,8 +346,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -671,12 +354,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-09-11.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -690,8 +372,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -700,12 +380,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-07.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -719,8 +398,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -729,12 +406,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-07.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -748,8 +424,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -758,12 +432,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-24.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -777,8 +450,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -787,12 +458,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-24.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -806,8 +476,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -816,12 +484,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-26.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -835,8 +502,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -845,12 +510,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2021-12-26.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -864,8 +528,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -874,12 +536,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-18.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -893,8 +554,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -903,12 +562,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-18.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -922,8 +580,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -932,12 +588,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-19.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -951,8 +606,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -961,12 +614,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-19.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -980,8 +632,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -990,12 +640,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-23.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1009,8 +658,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1019,12 +666,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2022-03-23.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1038,8 +684,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1048,128 +692,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2022-04-13.md": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2022-04-13.mp4?url": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2022-04-28.md": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2022-04-28.mp4?url": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-01-29.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1183,8 +710,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1193,12 +718,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-01-29.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1212,8 +736,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1222,12 +744,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-02-27.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1241,8 +762,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1251,12 +770,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-02-27.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1270,8 +788,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1280,12 +796,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-03-18.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1299,8 +814,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1309,12 +822,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-03-18.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1328,8 +840,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1338,12 +848,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-03-27.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1357,8 +866,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1367,12 +874,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-03-27.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1386,8 +892,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1396,12 +900,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-04-30.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1415,8 +918,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1425,12 +926,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-04-30.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1444,8 +944,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1454,12 +952,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-07.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1473,8 +970,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1483,12 +978,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-07.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1502,8 +996,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1512,12 +1004,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-08.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1531,8 +1022,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1541,12 +1030,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-08.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1560,8 +1048,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1570,12 +1056,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-23.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1589,8 +1074,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1599,12 +1082,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-05-23.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1618,8 +1100,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1628,70 +1108,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2023-06-06.md": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
-    "/assets/2023-06-15-63171144.mp4",
-    "/assets/2023-06-23-7430df9f.mp4"
-  ],
-  "demo/2023-06-06.mp4?url": [
-    "/assets/demos-fc57eebb.js",
-    "/assets/2021-01-12-120bd206.mp4",
-    "/assets/2021-03-01-129265c4.mp4",
-    "/assets/2021-03-16-cd6f3cb5.mp4",
-    "/assets/2021-05-01-e66f70ce.mp4",
-    "/assets/2021-05-23-9416e316.mp4",
-    "/assets/2021-08-17-be291a3a.mp4",
-    "/assets/2021-09-11-c3f0e8e9.mp4",
-    "/assets/2021-12-07-57d4e2cd.mp4",
-    "/assets/2021-12-24-562b9067.mp4",
-    "/assets/2021-12-26-ada8dcf6.mp4",
-    "/assets/2022-03-18-959b9f44.mp4",
-    "/assets/2022-03-19-584c6a5c.mp4",
-    "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
-    "/assets/2023-01-29-3f64d04f.mp4",
-    "/assets/2023-02-27-ab781f5b.mp4",
-    "/assets/2023-03-18-e98a1f45.mp4",
-    "/assets/2023-03-27-4c11e534.mp4",
-    "/assets/2023-04-30-fd67e06c.mp4",
-    "/assets/2023-05-07-33a6e720.mp4",
-    "/assets/2023-05-08-7fad37ac.mp4",
-    "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-06-15.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1705,8 +1126,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1715,12 +1134,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-06-15.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1734,8 +1152,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1744,12 +1160,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-06-23.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1763,8 +1178,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1773,12 +1186,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/2023-06-23.mp4?url": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1792,8 +1204,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1802,12 +1212,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "demo/data.ts": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1821,8 +1230,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1831,7 +1238,6 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
@@ -1886,19 +1292,19 @@
   "node_modules/.pnpm/vue-router@4.2.4_vue@3.3.4/node_modules/vue-router/dist/vue-router.mjs": [
   ],
   "pages/[...404].md": [
-    "/assets/_...404_-24e56ac7.js"
+    "/assets/_...404_-3441780c.js"
   ],
   "pages/bookmarks.md": [
-    "/assets/bookmarks-7b067450.js"
+    "/assets/bookmarks-e90d29f1.js"
   ],
   "pages/chat-zh.md": [
-    "/assets/chat-zh-5dc202e9.js"
+    "/assets/chat-zh-403afcf1.js"
   ],
   "pages/chat.md": [
-    "/assets/chat-5f47e957.js"
+    "/assets/chat-9c5e450f.js"
   ],
   "pages/demos.md": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -1912,8 +1318,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -1922,93 +1326,51 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "pages/giving-talks.md": [
-    "/assets/giving-talks-83f20afd.js"
+    "/assets/giving-talks-89d1a377.js"
   ],
   "pages/index.md": [
   ],
   "pages/notes.md": [
-    "/assets/notes-daf0286f.js"
+    "/assets/notes-5122e71c.js"
   ],
   "pages/podcasts.md": [
-    "/assets/podcasts-4b49f53e.js"
-  ],
-  "pages/posts/about-yak-shaving-zh.md": [
-    "/assets/about-yak-shaving-zh-755dc6ae.js"
-  ],
-  "pages/posts/about-yak-shaving.md": [
-    "/assets/about-yak-shaving-296fc31c.js"
-  ],
-  "pages/posts/ai-qrcode-101.md": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "pages/posts/ai-qrcode-refine.md": [
-    "/assets/ai-qrcode-refine-354270db.js"
-  ],
-  "pages/posts/ai-qrcode.md": [
-    "/assets/ai-qrcode-aeb21617.js"
-  ],
-  "pages/posts/animated-svg-logo.md": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
-  "pages/posts/async-with-composition-api.md": [
-    "/assets/async-with-composition-api-1b2083b9.js"
-  ],
-  "pages/posts/binfe-2020-zh.md": [
-    "/assets/binfe-2020-zh-6e6c5bc9.js"
-  ],
-  "pages/posts/bonjour-paris.md": [
-    "/assets/bonjour-paris-a683b6e1.js"
-  ],
-  "pages/posts/break-lines-in-js.md": [
-    "/assets/break-lines-in-js-aca17f6b.js"
-  ],
-  "pages/posts/icons-in-pure-css-zh.md": [
-    "/assets/icons-in-pure-css-zh-1277c605.js"
-  ],
-  "pages/posts/icons-in-pure-css.md": [
-    "/assets/icons-in-pure-css-629ab03e.js"
+    "/assets/podcasts-e09e2811.js"
   ],
   "pages/posts/index.md": [
-    "/assets/index-2030a9fa.js"
+    "/assets/index-a70f7b85.js"
   ],
-  "pages/posts/introduction-to-vitest-vue-nation-2022.md": [
-    "/assets/introduction-to-vitest-vue-nation-2022-a85a36e2.js"
+  "pages/posts/markDowm语法及使用demo.md": [
+    "/assets/markDowm语法及使用demo-63344098.js"
   ],
-  "pages/posts/isomorphic-dirname copy.md": [
-    "/assets/isomorphic-dirname copy-e95bdc7c.js"
-  ],
-  "pages/posts/isomorphic-dirname.md": [
-    "/assets/isomorphic-dirname-fe2cc419.js"
+  "pages/posts/my-new-blog.md": [
+    "/assets/my-new-blog-df11d7c7.js"
   ],
   "pages/projects.md": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "pages/sponsors-list.md": [
-    "/assets/sponsors-list-33dcfffb.js"
+    "/assets/sponsors-list-e9ce1e0e.js"
   ],
   "pages/streams.md": [
-    "/assets/streams-70a7add3.js"
+    "/assets/streams-345d8c34.js"
   ],
   "pages/talks.md": [
-    "/assets/talks-bd4103b0.js"
+    "/assets/talks-6ba88790.js"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/components/CalCom.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CalCom.vue_vue_type_script_setup_true_lang-4d34fecf.js"
+    "/assets/CalCom.vue_vue_type_script_setup_true_lang-734bd553.js"
   ],
   "src/components/Footer.vue": [
   ],
   "src/components/GitHubLink.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -2022,8 +1384,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -2032,12 +1392,11 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "src/components/ListDemos.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -2051,8 +1410,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -2061,54 +1418,45 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/components/ListProjects.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/ListProjects.vue?vue&type=style&index=0&scoped=ca94254f&lang.css": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/Logo.vue": [
   ],
-  "src/components/Logo.vue?vue&type=style&index=0&scoped=c91eafce&lang.css": [
-  ],
-  "src/components/LogoStroke.vue": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
-  ],
-  "src/components/LogoStroke.vue?vue&type=style&index=0&scoped=e61c8fc8&lang.css": [
-    "/assets/animated-svg-logo-984450f5.js",
-    "/assets/animated-svg-logo-80fd96c6.css"
+  "src/components/Logo.vue?vue&type=style&index=0&scoped=c782b6a0&lang.css": [
   ],
   "src/components/NavBar.vue": [
   ],
   "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [
   ],
-  "src/components/NavBar.vue?vue&type=style&index=0&scoped=0941ac5c&lang.css": [
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=d8c5a18e&lang.css": [
   ],
   "src/components/Plum.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/components/SponsorButton.vue": [
-    "/assets/SponsorButton-ca52e56a.js"
+    "/assets/SponsorButton-5043f4ba.js"
   ],
   "src/components/TextCopy.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/giving-talks-83f20afd.js"
+    "/assets/giving-talks-89d1a377.js"
   ],
   "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/components/WrapperDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -2122,8 +1470,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -2132,81 +1478,37 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ],
   "src/components/WrapperPost.vue?vue&type=script&setup=true&lang.ts": [
   ],
   "src/components/icons/Elk.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/icons/Slidev.vue": [
-    "/assets/Slidev-53d0cca9.js"
+    "/assets/Slidev-56e41639.js"
   ],
   "src/components/icons/Unocss.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/icons/Vitest.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/icons/VueDemi.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/icons/VueReactivity.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
   ],
   "src/components/icons/VueUse.vue": [
-    "/assets/projects-46de6cbd.js",
+    "/assets/projects-99d1613d.js",
     "/assets/projects-83376820.css"
-  ],
-  "src/components/qrcode/ImageMatrix.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeCompare.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeControlNetScale.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeMatrix.vue": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeMatrix.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeMatrix.vue?vue&type=style&index=0&scoped=a4609702&lang.css": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeMatrixModelPrompts.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeMatrixModelSamplers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeOptionsSelect.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRCodeSelectiveLayers.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ai-qrcode-101-8a66e4e8.js",
-    "/assets/ai-qrcode-101-c25d4216.css"
-  ],
-  "src/components/qrcode/QRNotScannable.vue": [
-    "/assets/QRNotScannable-d2dd5aa7.js"
   ],
   "src/logics/index.ts": [
   ],
@@ -2219,7 +1521,7 @@
   "src/styles/prose.css": [
   ],
   "~icons/carbon/logo-github": [
-    "/assets/demos-fc57eebb.js",
+    "/assets/demos-f1d183dc.js",
     "/assets/2021-01-12-120bd206.mp4",
     "/assets/2021-03-01-129265c4.mp4",
     "/assets/2021-03-16-cd6f3cb5.mp4",
@@ -2233,8 +1535,6 @@
     "/assets/2022-03-18-959b9f44.mp4",
     "/assets/2022-03-19-584c6a5c.mp4",
     "/assets/2022-03-23-1c077b8f.mp4",
-    "/assets/2022-04-13-508a181c.mp4",
-    "/assets/2022-04-28-0a75c4f4.mp4",
     "/assets/2023-01-29-3f64d04f.mp4",
     "/assets/2023-02-27-ab781f5b.mp4",
     "/assets/2023-03-18-e98a1f45.mp4",
@@ -2243,7 +1543,6 @@
     "/assets/2023-05-07-33a6e720.mp4",
     "/assets/2023-05-08-7fad37ac.mp4",
     "/assets/2023-05-23-1cc1e2a4.mp4",
-    "/assets/2023-06-06-c85eb5e5.mp4",
     "/assets/2023-06-15-63171144.mp4",
     "/assets/2023-06-23-7430df9f.mp4"
   ]
